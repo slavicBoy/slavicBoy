@@ -14,7 +14,7 @@
 - 🎓 &nbsp; Doin' for degree in Computer Science.
 - 💼 &nbsp; Member of a great team, coding the most popular polish GTA V server based on Role Play mode. -> https://forum.v-rp.pl/
 - :soccer: &nbsp; Enthusiast of economics and football.
-- 📫 &nbsp; Reach me here: krzrys@interia.pl /\ alternatively discord: krzysiu bubbletea#7515
+- 📫 &nbsp; Reach me here: lynxdevv@gmail.com /\ alternatively discord: krzysiu bubbletea#7515
 - :thought_balloon: &nbsp; Favourite quote? Everyone knew it was impossible, until a fool who didn't know came along and did it - A. Einstein
 
 
