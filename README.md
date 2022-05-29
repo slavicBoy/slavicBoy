@@ -19,7 +19,7 @@
 
 
 <div align="center">
-<h3>Technologies and Tools I use</h3> 
+<h3>Technologies and tools I use</h3> 
 
 <a href="https://www.java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/> </a> 
   </br>
