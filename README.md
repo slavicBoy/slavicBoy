@@ -2,8 +2,12 @@
         
 <div align="center"> 
 <h2> Hi there! I'm Krzysiek! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200"/>
+</br>
 </div>
+        
+<div align="center">
+        <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200"/>
+        </div>
         
 <div align="center"> 
 <h3> 👨🏻‍💻 About Me </h3>
